@@ -16,6 +16,7 @@
 ```
 pip install -r requirements.txt
 ```
+3. Ensure you have your Cohere API key
 
 ## Usage
 1. Start the Flask application:
