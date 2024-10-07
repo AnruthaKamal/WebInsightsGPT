@@ -12,16 +12,7 @@
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Lordvarun23/webinsightgpt.git](https://github.com/Lordvarun23/WebInsightGPT)
-   cd webinsightgpt
-   ```
-2. Create a virtual environment and activate it:
- ```
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-3. Install the required packages:
+2. Install the required packages:
 ```
 pip install -r requirements.txt
 ```
@@ -44,4 +35,5 @@ Code Overview
 - chatbot_response(user_query): Handles user queries and provides responses based on context or general interactions.
 
 ## Screen Shots
-![image](https://github.com/user-attachments/assets/7045ce48-1993-44d9-9763-1b5a2a69e15e)
+![image](https://github.com/user-attachments/assets/0996cec9-29ef-41dc-8d7b-b968c268e2ab)
+
